@@ -1,0 +1,118 @@
+body {
+    background-color: white;
+}
+
+.log input {
+    margin-top: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    border-width: 0px;
+    outline: 0;
+}
+
+.log button {
+    margin: 5px auto;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    width: 100px;
+    color: black;
+    background-color: white;
+    margin: 50px auto;
+}
+
+button:hover {
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+.login {
+    border-radius: 15px;
+    padding: 50px;
+    margin: 150px auto;
+    height: 350px;
+    width: 450px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.register{
+    border-radius: 15px;
+    padding: 50px;
+    margin: 150px auto;
+    width: 450px;
+    background-color: black;
+    color: white;
+}
+.register input{
+    margin-top: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    border-width: 0px;
+    outline: 0;
+    padding: 3px;
+}
+.select{
+    margin-top: 10px; 
+    padding: 2px; 
+}
+.dbook{
+    border-radius: 15px;
+    padding: 20px;
+    margin: 100px auto;
+    width: 450px;
+    background-color: black;
+    color: white;
+}
+.dbook input{
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    border-width: 0px;
+    outline: 0;
+    padding: 5px;
+}
+#book {
+    border-radius: 15px;
+    padding: 50px;
+    margin: 150px auto;
+    width: 450px;
+    background-color: black;
+    color: white; 
+}
+#book input{
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    border-width: 0px;
+    outline: 0;
+    padding: 5px;
+}
+#book button{
+    margin-top: 5px;
+}
+#book Table{
+    margin-top: 15px;
+}
+.list{
+    margin-top: 30px;
+    border-radius: 15px;
+    width: 800px;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+.block{
+    border-radius: 15px;
+    padding: 50px;
+    margin: 150px auto;
+    height: 250px;
+    width: 450px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
